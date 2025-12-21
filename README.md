@@ -83,4 +83,4 @@ This project brings realistic recoil to toy guns or laser tag rifles using a ser
 MIT License – free to use, modify, and share.
 
 ---
-Made with ❤️ for realistic laser tag and training simulations.
+Made with for realistic laser tag and training simulations feel free to expand upon
