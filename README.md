@@ -1,4 +1,4 @@
-# Simulated Laser Recoil Module
+![right_](https://github.com/user-attachments/assets/ea0ff8c2-2567-429c-ada9-dba73d4fa20f)# Simulated Laser Recoil Module
 
 **Arduino-based recoil simulation system for laser tag / airsoft training guns**
 
@@ -78,9 +78,16 @@ This project brings realistic recoil to toy guns or laser tag rifles using a ser
 - Magazine release button
 - Bluetooth for multiplayer stats
 
+## picturess
+![Project Prototype](https://raw.githubusercontent.com/phonot/SLRM/main/right_.jpg)
+
+![Project Prototype](https://raw.githubusercontent.com/phonot/SLRM/main/left.jpg)
+
 ## License
 
 MIT License – free to use, modify, and share.
 
 ---
 Made with for realistic laser tag and training simulations feel free to expand upon
+[Thank you Raki for helping me on this project]
+
