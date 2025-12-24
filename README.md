@@ -1,4 +1,4 @@
-![right_](https://github.com/user-attachments/assets/ea0ff8c2-2567-429c-ada9-dba73d4fa20f)# Simulated Laser Recoil Module
+
 
 **Arduino-based recoil simulation system for laser tag / airsoft training guns**
 
