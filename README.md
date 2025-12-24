@@ -81,7 +81,7 @@ This project brings realistic recoil to toy guns or laser tag rifles using a ser
 ## picturess
 ![Project Prototype](https://raw.githubusercontent.com/phonot/SLRM/main/right_.jpg)
 
-![Project Prototype](https://raw.githubusercontent.com/phonot/SLRM/main/left.jpg)
+![Project Prototype](https://raw.githubusercontent.com/phonot/SLRM/main/left_.jpg)
 
 ## License
 
